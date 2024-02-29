@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "id": "unique-1",
+      "name": "Tuna",
+      "salary": "5000 TL",
+      "department": "Bilişim",
+      "text": "asd"
+    },
+    {
+      "id": "unique-2",
+      "name": "Demet",
+      "salary": "8000 TL",
+      "department": "Hukuk",
+      "text": "qwe"
+    },
+    {
+      "name": "test",
+      "salary": "7000",
+      "department": "iletişim",
+      "id": "8KDoIp2",
+      "text": "zxc"
+    }
+  ]
+}
